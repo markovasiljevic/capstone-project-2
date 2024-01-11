@@ -1,0 +1,28 @@
+#headline {
+  background-image: url(./images/wood-texture.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  color: #0081a7;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.subline {
+  font-size: 35px;
+}
+#about-me {
+  color: #f07167;
+}
+#text1 {
+  font-size: 25px;
+}
+h2 {
+  color: #f07167;
+}
+.skills-margin {
+  margin-left: 300px;
+  margin-top: 60px;
+}
